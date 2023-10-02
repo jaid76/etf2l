@@ -1,0 +1,8 @@
+"etf2l"
+{
+	"max_age"		"10"
+	"announce"		"1"
+	"admins_only"	"0"
+	"seasons_only"	"1"
+	"team_type"		"6v6"
+}
